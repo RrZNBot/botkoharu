@@ -8,10 +8,10 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="MILKITA" src="https://img.shields.io/badge/MILKITA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Koharu" src="https://img.shields.io/badge/MILKITA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/findme-19/milkita"><img title="Author" src="https://img.shields.io/badge/findme-19-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://koharu.my.id"><img title="Author" src="https://img.shields.io/badge/findme-19-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/findme-19/milkita/network/members"><img title="Forks" src="https://img.shields.io/github/forks/findme-19/milkita?label=Forks&color=blue&style=flat-square"></a>
