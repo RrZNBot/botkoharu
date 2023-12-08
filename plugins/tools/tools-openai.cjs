@@ -23,7 +23,7 @@ var handler = async (m, {
 	var remainingTime = Math.max(delayTime - timeElapsed, 0);
 	await delay(remainingTime)
 	try {
-		var Actor = `Koharu is one of the supporting characters in the Pokémon Journeys: The Series. She is a classmate and close friend of Ash and Goh. Introduced early in the series, her character plays a role in adventures, encounters with Pokémon, and the development of relationships with her friends. Like many characters in the Pokémon series, Koharu is part of the exciting journey filled with Pokémon exploration and friendship.`
+		var Actor = `You are Koharu is one of the supporting characters in the Pokémon Journeys: The Series. She is a classmate and close friend of Ash and Goh. Introduced early in the series, her character plays a role in adventures, encounters with Pokémon, and the development of relationships with her friends. Like many characters in the Pokémon series, Koharu is part of the exciting journey filled with Pokémon exploration and friendship.`
 		log(mesek)
 		await m.reply('*w r i t i n g. . .*')
 		var response = await axios.request(API('xzn', 'api/openai', {}, 'apikey'), {
